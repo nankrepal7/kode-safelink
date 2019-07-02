@@ -1,0 +1,2 @@
+# kode-safelink
+belajar buat
